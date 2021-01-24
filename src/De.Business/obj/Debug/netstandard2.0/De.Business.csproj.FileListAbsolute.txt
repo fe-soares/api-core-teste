@@ -1,0 +1,9 @@
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\bin\Debug\netstandard2.0\De.Business.deps.json
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\bin\Debug\netstandard2.0\De.Business.dll
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\bin\Debug\netstandard2.0\De.Business.pdb
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\obj\Debug\netstandard2.0\De.Business.AssemblyInfoInputs.cache
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\obj\Debug\netstandard2.0\De.Business.AssemblyInfo.cs
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\obj\Debug\netstandard2.0\De.Business.csproj.CoreCompileInputs.cache
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\obj\Debug\netstandard2.0\De.Business.dll
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\obj\Debug\netstandard2.0\De.Business.pdb
+C:\DEV\CSharp_Projects\MyApi\src\De.Business\obj\Debug\netstandard2.0\De.Business.csprojAssemblyReference.cache
