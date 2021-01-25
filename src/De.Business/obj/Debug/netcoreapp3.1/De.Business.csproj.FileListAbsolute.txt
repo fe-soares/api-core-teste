@@ -1,0 +1,12 @@
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\bin\Debug\netcoreapp3.1\De.Business.deps.json
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\bin\Debug\netcoreapp3.1\De.Business.runtimeconfig.json
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\bin\Debug\netcoreapp3.1\De.Business.runtimeconfig.dev.json
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\bin\Debug\netcoreapp3.1\De.Business.dll
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\bin\Debug\netcoreapp3.1\De.Business.pdb
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\obj\Debug\netcoreapp3.1\De.Business.csprojAssemblyReference.cache
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\obj\Debug\netcoreapp3.1\De.Business.AssemblyInfoInputs.cache
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\obj\Debug\netcoreapp3.1\De.Business.AssemblyInfo.cs
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\obj\Debug\netcoreapp3.1\De.Business.csproj.CoreCompileInputs.cache
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\obj\Debug\netcoreapp3.1\De.Business.dll
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\obj\Debug\netcoreapp3.1\De.Business.pdb
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Business\obj\Debug\netcoreapp3.1\De.Business.genruntimeconfig.cache

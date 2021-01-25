@@ -9,9 +9,11 @@ using De.Business.Models;
 using De.Business.Interfaces;
 using AutoMapper;
 using Dev.Api.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 
 namespace De.Api.Controllers
 {
+    [Authorize]
     [Route("api/fornecedores")]
     [ApiController]
     public class FornecedoresController : MainController
@@ -26,6 +28,7 @@ namespace De.Api.Controllers
             _fornecedorService = fornecedorService;
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IEnumerable<FornecedorViewModel>> ObterTodos()
         {

@@ -9,7 +9,6 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -35,22 +34,13 @@ namespace De.Api
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });//conexão com banco
 
+            services.AddIdentityConfiguration(Configuration);
+
             services.AddAutoMapper(typeof(Startup));//utilizar o outo mapper
 
-            services.Configure<ApiBehaviorOptions>(options => 
-            {
-                options.SuppressModelStateInvalidFilter = true;
-            });//para não usar a validação de viewModel da api
-
-            services.AddCors(options => 
-            {
-                options.AddPolicy("Development",
-                    builder => builder.AllowAnyOrigin()
-                    .AllowAnyMethod()
-                    .AllowAnyHeader());
-            });
-
             services.AddControllers();//pra usar controllers
+
+            services.WebApiConfig();
 
             services.ResolveDependecies();//set de dependnecias, repositorios e interfaces
         }
@@ -62,12 +52,8 @@ namespace De.Api
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
-                app.UseHsts();
-            }
 
-            app.UseCors("Development");
+            app.UseAuthentication();
 
             app.UseHttpsRedirection();
 

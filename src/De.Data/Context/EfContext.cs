@@ -7,7 +7,7 @@ namespace De.Data.Context
 {
     public class EfContext: DbContext
     {
-        public EfContext(DbContextOptions options) : base(options) {}
+        public EfContext(DbContextOptions<EfContext> options) : base(options) {}
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }
         public DbSet<Fornecedor> Fornecedores { get; set; }

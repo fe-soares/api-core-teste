@@ -10,3 +10,15 @@ C:\DEV\CSharp_Projects\MyApi\src\De.Data\obj\Debug\netstandard2.0\De.Data.csproj
 C:\DEV\CSharp_Projects\MyApi\src\De.Data\obj\Debug\netstandard2.0\De.Data.csproj.CopyComplete
 C:\DEV\CSharp_Projects\MyApi\src\De.Data\obj\Debug\netstandard2.0\De.Data.dll
 C:\DEV\CSharp_Projects\MyApi\src\De.Data\obj\Debug\netstandard2.0\De.Data.pdb
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\bin\Debug\netstandard2.0\De.Data.deps.json
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\bin\Debug\netstandard2.0\De.Data.dll
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\bin\Debug\netstandard2.0\De.Data.pdb
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\bin\Debug\netstandard2.0\De.Business.dll
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\bin\Debug\netstandard2.0\De.Business.pdb
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\obj\Debug\netstandard2.0\De.Data.csprojAssemblyReference.cache
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\obj\Debug\netstandard2.0\De.Data.AssemblyInfoInputs.cache
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\obj\Debug\netstandard2.0\De.Data.AssemblyInfo.cs
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\obj\Debug\netstandard2.0\De.Data.csproj.CoreCompileInputs.cache
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\obj\Debug\netstandard2.0\De.Data.csproj.CopyComplete
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\obj\Debug\netstandard2.0\De.Data.dll
+C:\DEV\CSharp_Projects\MyApiCore\src\De.Data\obj\Debug\netstandard2.0\De.Data.pdb
